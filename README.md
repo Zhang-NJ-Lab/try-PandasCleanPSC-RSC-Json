@@ -1,2 +1,2 @@
 # try-PandasCleanPSC-RSC-Json
-清理数据，原数据Scientific Data钙钛矿化学式+效率
+清理数据，原数据Scientific Data钙钛矿化学式 (效率暂时未填入)
